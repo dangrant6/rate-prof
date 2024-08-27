@@ -1,0 +1,417 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "review": "Outstanding professor who explains complex concepts in an easy-to-understand manner.",
+      "subject": "Mathematics",
+      "stars": 5,
+      "university": "Harvard University"
+    },
+    {
+      "professor": "Dr. Michael Smith",
+      "review": "Challenging but rewarding course. Dr. Smith is always willing to help students.",
+      "subject": "Physics",
+      "stars": 5,
+      "university": "Stanford University"
+    },
+    {
+      "professor": "Dr. Sarah Thompson",
+      "review": "Engaging lectures and practical examples. Dr. Thompson makes learning enjoyable.",
+      "subject": "Computer Science",
+      "stars": 5,
+      "university": "Massachusetts Institute of Technology"
+    },
+    {
+      "professor": "Dr. David Brown",
+      "review": "Very knowledgeable, but sometimes the material is difficult to follow.",
+      "subject": "Chemistry",
+      "stars": 4,
+      "university": "University of California, Berkeley"
+    },
+    {
+      "professor": "Dr. Jessica Lee",
+      "review": "Approachable and understanding. Always available for extra help.",
+      "subject": "Biology",
+      "stars": 5,
+      "university": "University of Oxford"
+    },
+    {
+      "professor": "Dr. James Davis",
+      "review": "Provides clear explanations and useful study resources.",
+      "subject": "Economics",
+      "stars": 5,
+      "university": "Yale University"
+    },
+    {
+      "professor": "Dr. Jennifer Wilson",
+      "review": "A bit fast-paced, but very thorough in covering the material.",
+      "subject": "Mathematics",
+      "stars": 4,
+      "university": "Princeton University"
+    },
+    {
+      "professor": "Dr. William Martinez",
+      "review": "Very organized and knowledgeable. His passion for the subject is contagious.",
+      "subject": "History",
+      "stars": 5,
+      "university": "University of Cambridge"
+    },
+    {
+      "professor": "Dr. Elizabeth Anderson",
+      "review": "Explains difficult topics in a clear and concise way. Highly recommend.",
+      "subject": "Philosophy",
+      "stars": 5,
+      "university": "Columbia University"
+    },
+    {
+      "professor": "Dr. Christopher Garcia",
+      "review": "Encourages critical thinking and deep understanding of the material.",
+      "subject": "Political Science",
+      "stars": 5,
+      "university": "University of Chicago"
+    },
+    {
+      "professor": "Dr. Amanda Taylor",
+      "review": "Friendly and approachable. Makes the class interactive and fun.",
+      "subject": "English",
+      "stars": 5,
+      "university": "University of Pennsylvania"
+    },
+    {
+      "professor": "Dr. Matthew Miller",
+      "review": "Very structured and clear in his teaching approach.",
+      "subject": "Engineering",
+      "stars": 5,
+      "university": "California Institute of Technology"
+    },
+    {
+      "professor": "Dr. Laura Martinez",
+      "review": "Passionate about the subject and it shows in her teaching.",
+      "subject": "Psychology",
+      "stars": 5,
+      "university": "University of Michigan"
+    },
+    {
+      "professor": "Dr. Joshua Robinson",
+      "review": "Challenging but fair. Dr. Robinson pushes students to excel.",
+      "subject": "Mathematics",
+      "stars": 4,
+      "university": "University of Toronto"
+    },
+    {
+      "professor": "Dr. Karen Clark",
+      "review": "Very supportive and always willing to help outside of class.",
+      "subject": "Sociology",
+      "stars": 5,
+      "university": "University of California, Los Angeles"
+    },
+    {
+      "professor": "Dr. Daniel Lewis",
+      "review": "Sometimes hard to follow, but overall a good professor.",
+      "subject": "Physics",
+      "stars": 4,
+      "university": "University of Edinburgh"
+    },
+    {
+      "professor": "Dr. Patricia Young",
+      "review": "Clear and effective teaching style. Makes difficult concepts easy.",
+      "subject": "Biology",
+      "stars": 5,
+      "university": "Imperial College London"
+    },
+    {
+      "professor": "Dr. Richard Hernandez",
+      "review": "Approachable and always willing to provide feedback on assignments.",
+      "subject": "Computer Science",
+      "stars": 5,
+      "university": "Carnegie Mellon University"
+    },
+    {
+      "professor": "Dr. Barbara Hall",
+      "review": "Inspiring professor who truly cares about her students' success.",
+      "subject": "Chemistry",
+      "stars": 5,
+      "university": "University of Wisconsin-Madison"
+    },
+    {
+      "professor": "Dr. Kevin King",
+      "review": "Good professor but sometimes the workload can be overwhelming.",
+      "subject": "Mathematics",
+      "stars": 4,
+      "university": "University of Illinois Urbana-Champaign"
+    },
+    {
+      "professor": "Dr. Angela Scott",
+      "review": "Excellent communicator who makes learning enjoyable.",
+      "subject": "History",
+      "stars": 5,
+      "university": "University of Sydney"
+    },
+    {
+      "professor": "Dr. Brian Green",
+      "review": "Very knowledgeable but can be a bit dry in his lectures.",
+      "subject": "Philosophy",
+      "stars": 4,
+      "university": "University of Melbourne"
+    },
+    {
+      "professor": "Dr. Maria Adams",
+      "review": "Great at engaging students and making the material interesting.",
+      "subject": "Political Science",
+      "stars": 5,
+      "university": "University of Washington"
+    },
+    {
+      "professor": "Dr. Mark Gonzalez",
+      "review": "Fair and consistent grading. Provides valuable feedback.",
+      "subject": "Economics",
+      "stars": 5,
+      "university": "University of Texas at Austin"
+    },
+    {
+      "professor": "Dr. Stephanie Baker",
+      "review": "Patient and understanding. Makes sure everyone is on the same page.",
+      "subject": "English",
+      "stars": 5,
+      "university": "McGill University"
+    },
+    {
+      "professor": "Dr. Scott Nelson",
+      "review": "Goes above and beyond to ensure students understand the material.",
+      "subject": "Engineering",
+      "stars": 5,
+      "university": "Georgia Institute of Technology"
+    },
+    {
+      "professor": "Dr. Susan Mitchell",
+      "review": "Highly recommended for anyone serious about learning.",
+      "subject": "Mathematics",
+      "stars": 5,
+      "university": "University of British Columbia"
+    },
+    {
+      "professor": "Dr. Steven Perez",
+      "review": "Knowledgeable but can be a bit intimidating at times.",
+      "subject": "Physics",
+      "stars": 4,
+      "university": "University of Southern California"
+    },
+    {
+      "professor": "Dr. Carol Turner",
+      "review": "Creates a positive learning environment and encourages participation.",
+      "subject": "Psychology",
+      "stars": 5,
+      "university": "University of Florida"
+    },
+    {
+      "professor": "Dr. Jason Hill",
+      "review": "A bit strict but very fair in his grading. Tough but rewarding class.",
+      "subject": "Chemistry",
+      "stars": 4,
+      "university": "Purdue University"
+    },
+    {
+      "professor": "Dr. Heather Adams",
+      "review": "Makes even the most difficult topics seem manageable.",
+      "subject": "Mathematics",
+      "stars": 5,
+      "university": "University of Waterloo"
+    },
+    {
+      "professor": "Dr. Robert Edwards",
+      "review": "Excellent professor who is always willing to help students succeed.",
+      "subject": "Biology",
+      "stars": 5,
+      "university": "University of Virginia"
+    },
+    {
+      "professor": "Dr. Michelle Wright",
+      "review": "Engaging and knowledgeable, but sometimes goes off-topic.",
+      "subject": "Computer Science",
+      "stars": 4,
+      "university": "University of Texas at Dallas"
+    },
+    {
+      "professor": "Dr. Andrew Barnes",
+      "review": "A bit disorganized but knows his subject very well.",
+      "subject": "Economics",
+      "stars": 4,
+      "university": "University of Queensland"
+    },
+    {
+      "professor": "Dr. Rebecca Carter",
+      "review": "Highly effective in communicating complex ideas. Makes learning fun.",
+      "subject": "English",
+      "stars": 5,
+      "university": "University of Toronto"
+    },
+    {
+      "professor": "Dr. Katherine Brooks",
+      "review": "Very supportive and patient. Encourages students to think critically.",
+      "subject": "Mathematics",
+      "stars": 5,
+      "university": "New York University"
+    },
+    {
+      "professor": "Dr. Nicholas Evans",
+      "review": "Excellent professor, but the coursework is very demanding.",
+      "subject": "Physics",
+      "stars": 4,
+      "university": "University of California, San Diego"
+    },
+    {
+      "professor": "Dr. Laura Scott",
+      "review": "Engaging and always willing to provide extra help.",
+      "subject": "Computer Science",
+      "stars": 5,
+      "university": "University of Maryland"
+    },
+    {
+      "professor": "Dr. Richard Walker",
+      "review": "Knowledgeable and approachable. Makes the subject interesting.",
+      "subject": "Chemistry",
+      "stars": 5,
+      "university": "University of North Carolina at Chapel Hill"
+    },
+    {
+      "professor": "Dr. Emma Reed",
+      "review": "Clear explanations and great use of real-world examples.",
+      "subject": "Biology",
+      "stars": 5,
+      "university": "University of Minnesota"
+    },
+    {
+      "professor": "Dr. Paul Foster",
+      "review": "Sometimes lectures can be a bit rushed, but overall a good experience.",
+      "subject": "Economics",
+      "stars": 4,
+      "university": "University of Melbourne"
+    },
+    {
+      "professor": "Dr. Heather Morgan",
+      "review": "Approachable and encouraging. Makes learning fun.",
+      "subject": "History",
+      "stars": 5,
+      "university": "University of California, Davis"
+    },
+    {
+      "professor": "Dr. Charles Harris",
+      "review": "Great professor who is passionate about his subject.",
+      "subject": "Philosophy",
+      "stars": 5,
+      "university": "University of Glasgow"
+    },
+    {
+      "professor": "Dr. Olivia Brooks",
+      "review": "Very organized and clear in her teaching. Highly recommend.",
+      "subject": "Political Science",
+      "stars": 5,
+      "university": "University of Wisconsin-Madison"
+    },
+    {
+      "professor": "Dr. Michael Turner",
+      "review": "Engaging and insightful. Helps students understand the bigger picture.",
+      "subject": "Economics",
+      "stars": 5,
+      "university": "University of Cambridge"
+    },
+    {
+      "professor": "Dr. Samantha Wood",
+      "review": "Friendly and always willing to help, but sometimes the material is challenging.",
+      "subject": "English",
+      "stars": 4,
+      "university": "University of New South Wales"
+    },
+    {
+      "professor": "Dr. George Carter",
+      "review": "Excellent professor who challenges students to do their best.",
+      "subject": "Engineering",
+      "stars": 5,
+      "university": "University of Melbourne"
+    },
+    {
+      "professor": "Dr. Julia Adams",
+      "review": "Very approachable and dedicated to her students' success.",
+      "subject": "Psychology",
+      "stars": 5,
+      "university": "University of California, Irvine"
+    },
+    {
+      "professor": "Dr. Andrew Campbell",
+      "review": "Great at explaining complex concepts in a simple way.",
+      "subject": "Physics",
+      "stars": 5,
+      "university": "University of Michigan"
+    },
+    {
+      "professor": "Dr. Sarah Hughes",
+      "review": "Very passionate about the subject. Makes learning enjoyable.",
+      "subject": "Mathematics",
+      "stars": 5,
+      "university": "University of British Columbia"
+    },
+    {
+      "professor": "Dr. Jonathan Lee",
+      "review": "Patient and thorough in his teaching. A great professor overall.",
+      "subject": "Computer Science",
+      "stars": 5,
+      "university": "University of Toronto"
+    },
+    {
+      "professor": "Dr. Stephanie Wright",
+      "review": "Always available for extra help. Makes sure everyone understands the material.",
+      "subject": "Biology",
+      "stars": 5,
+      "university": "University of Florida"
+    },
+    {
+      "professor": "Dr. Robert Brown",
+      "review": "Very organized and clear. Makes sure students grasp the key concepts.",
+      "subject": "Chemistry",
+      "stars": 5,
+      "university": "University of Sydney"
+    },
+    {
+      "professor": "Dr. Michael Evans",
+      "review": "Very knowledgeable but sometimes the material can be overwhelming.",
+      "subject": "Economics",
+      "stars": 4,
+      "university": "University of Texas at Austin"
+    },
+    {
+      "professor": "Dr. Katherine Johnson",
+      "review": "Provides great resources and makes the class engaging.",
+      "subject": "History",
+      "stars": 5,
+      "university": "University of Edinburgh"
+    },
+    {
+      "professor": "Dr. Daniel Thomas",
+      "review": "Sometimes lectures are a bit dry, but overall a good professor.",
+      "subject": "Philosophy",
+      "stars": 4,
+      "university": "University of California, Los Angeles"
+    },
+    {
+      "professor": "Dr. Laura Walker",
+      "review": "Engaging and always willing to provide additional support.",
+      "subject": "Political Science",
+      "stars": 5,
+      "university": "University of Sydney"
+    },
+    {
+      "professor": "Dr. Brian Lee",
+      "review": "Makes the subject interesting and provides useful feedback.",
+      "subject": "Engineering",
+      "stars": 5,
+      "university": "Massachusetts Institute of Technology"
+    },
+    {
+      "professor": "Dr. Jessica Turner",
+      "review": "Great professor who truly cares about her students' success.",
+      "subject": "Psychology",
+      "stars": 5,
+      "university": "University of Chicago"
+    }
+  ]
+}
