@@ -84,7 +84,7 @@ const RateMyProfessorAssistant = () => {
       <div className="p-4 border-b border-gray-200 dark:border-gray-700 flex justify-between items-center">
         <div className="flex items-center">
           <div className="bg-black dark:bg-white text-white dark:text-black rounded p-1 mr-2">
-            <span className="font-bold text-sm">UI</span>
+            <span className="font-bold text-sm">RMP</span>
           </div>
           <h1 className="text-2xl font-bold">Rate My Professor Assistant</h1>
         </div>
